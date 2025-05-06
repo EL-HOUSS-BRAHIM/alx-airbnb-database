@@ -1,0 +1,4 @@
+[Tue May  6 23:44:45 +01 2025] ✅ Committed 'requirements.md' with message 'pushing requirements to the repo with some edit's'
+[Tue May  6 23:44:48 +01 2025] ✅ Pushed commit for 'requirements.md' to branch 'main'
+[Tue May  6 23:44:48 +01 2025] ✅ Committed '../README.md' with message 'pushing README to the repo with some edit's'
+[Tue May  6 23:44:50 +01 2025] ✅ Pushed commit for '../README.md' to branch 'main'
