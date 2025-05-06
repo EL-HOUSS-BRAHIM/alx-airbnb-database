@@ -2,3 +2,7 @@
 [Tue May  6 23:44:48 +01 2025] ✅ Pushed commit for 'requirements.md' to branch 'main'
 [Tue May  6 23:44:48 +01 2025] ✅ Committed '../README.md' with message 'pushing README to the repo with some edit's'
 [Tue May  6 23:44:50 +01 2025] ✅ Pushed commit for '../README.md' to branch 'main'
+[Tue May  6 23:48:08 +01 2025] ✅ Committed 'git-push-log.txt' with message 'pushing git-push-log to the repo with some edit's'
+[Tue May  6 23:48:11 +01 2025] ✅ Pushed commit for 'git-push-log.txt' to branch 'main'
+[Tue May  6 23:48:11 +01 2025] ✅ Committed '../normalization.md' with message 'pushing normalization to the repo with some edit's'
+[Tue May  6 23:48:13 +01 2025] ✅ Pushed commit for '../normalization.md' to branch 'main'
