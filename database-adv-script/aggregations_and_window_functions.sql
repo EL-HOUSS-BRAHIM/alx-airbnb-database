@@ -31,6 +31,7 @@ SELECT
     location,
     booking_count,
     avg_rating,
+    ROW_NUMBER() OVER (ORDER BY booking_count DESC) as booking_row_number,
     RANK() OVER (ORDER BY booking_count DESC) as booking_rank,
     DENSE_RANK() OVER (ORDER BY avg_rating DESC) as rating_rank
 FROM PropertyBookings
