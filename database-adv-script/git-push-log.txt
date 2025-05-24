@@ -22,3 +22,7 @@
 [Sat May 24 12:52:17 +01 2025] ✅ Pushed commit for 'aggregations_and_window_functions.sql' to branch 'main'
 [Sat May 24 12:52:17 +01 2025] ✅ Committed 'git-push-log.txt' with message 'pushing git-push-log to the repo with all files ready for ALX database'
 [Sat May 24 12:52:20 +01 2025] ✅ Pushed commit for 'git-push-log.txt' to branch 'main'
+[Sat May 24 12:56:14 +01 2025] ✅ Committed 'git-push-log.txt' with message 'pushing git-push-log to the repo with all files ready for ALX database'
+[Sat May 24 12:56:17 +01 2025] ✅ Pushed commit for 'git-push-log.txt' to branch 'main'
+[Sat May 24 12:56:17 +01 2025] ✅ Committed 'database_index.sql' with message 'pushing database_index to the repo with all files ready for ALX database'
+[Sat May 24 12:56:24 +01 2025] ✅ Pushed commit for 'database_index.sql' to branch 'main'
